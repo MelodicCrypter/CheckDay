@@ -1,19 +1,17 @@
 {
   "name": "checkday",
   "version": "1.0.0",
-  "description": "Simple and lightweight CLI package to check weather for a certain location. You can directly check it on your Console or Terminal.",
-  "main": "index.js",
-  "scripts": {
-    "run": "node app.js -a 'New York'"
+  "description": "Simple and lightweight CLI package to check weather, time, timezone for a certain location. You can directly check it on your Console or Terminal.",
+  "main": "bin/index.js",
+  "keywords": ["CLI", "Weather"],
+  "bin": {
+    "checkday": "bin/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Melodic Crypter",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
     "node-emoji": "^1.10.0",
     "request": "^2.88.0",
-    "underscore": "^1.9.1",
     "yargs": "^12.0.5"
   }
 }
