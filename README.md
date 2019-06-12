@@ -32,11 +32,22 @@ or
 
 Code above will return the weather status, temperature, current time, and timezone.
 
+<br>
+<br>
 To check the version:
+<br>
+
 `checkday --version`
 
+<br>
+
 For Help:
+<br>
+
 `checkday -h`
+
+<br>
+
 
 #### If Inside Local Project
 1. Create a file, any name you want, inside your project. eg. *checkday.js*
@@ -54,6 +65,4 @@ For Help:
 
 `node checkday.js -a 'LocationNameHere'`
 
-## Keywords
-[CLI](https://www.npmjs.com/search?q=keywords:CLI) &nbsp; [Weather](https://www.npmjs.com/search?q=keywords:Weather) &nbsp; [Melodic_Crypter](https://www.npmjs.com/search?q=keywords:Melodic_Crypter)
 

@@ -1,6 +1,6 @@
 {
   "name": "checkday",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Simple and lightweight CLI package to check weather, time, and timezone for a certain location. You can directly check it on your Console/Terminal.",
   "main": "bin/index.js",
   "keywords": ["CLI", "Weather"],
