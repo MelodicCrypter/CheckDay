@@ -1,8 +1,8 @@
 // Modules
 const request = require('request');
 
-// API key
-const apiKey = 'YOUR_GOOGLEAPI_HERE';
+// GOOGLE API key
+const apiKey = ' AIzaSyAxQYc5TXOvvXAEIdWAo5dBPO_xpdqC-xQ ';
 
 // geocodeAddress
 function geocodeAddress(address, callback) {

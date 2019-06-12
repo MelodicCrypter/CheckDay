@@ -1,8 +1,8 @@
 {
-  "name": "playground",
+  "name": "checkday",
   "version": "1.0.0",
-  "description": "",
-  "main": "async.basic.js",
+  "description": "Simple and lightweight CLI package to check weather for a certain location. You can directly check it on your Console or Terminal.",
+  "main": "index.js",
   "scripts": {
     "run": "node app.js -a 'New York'"
   },
