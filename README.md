@@ -40,9 +40,18 @@ For Help:
 
 #### If Inside Local Project
 1. Create a file, any name you want, inside your project. eg. *checkday.js*
+
 2. Inside *checkday.js*, require the **checkday** module
+<br>
+
 `const checkday = require('checkday');`
-4. Then on your command-line type:
+
+<br>
+
+   3. Then on your command-line type:
+
+<br>
+
 `node checkday.js -a 'LocationNameHere'`
 
 ## Keywords
