@@ -32,9 +32,12 @@ or
 
 Code above will return the weather status, temperature, current time, and timezone.
 
+![Sample Result](https://user-images.githubusercontent.com/18341500/59405126-f3412d80-8ddb-11e9-854f-79bb648b9534.png)
+
 <br>
 <br>
 To check the version:
+<br>
 <br>
 
 `checkday --version`
